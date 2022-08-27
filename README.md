@@ -1,2 +1,2 @@
 # Social-Media
-Projeto de redes sociais
+using CSS and HTML
